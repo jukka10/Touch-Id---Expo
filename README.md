@@ -1,7 +1,7 @@
 <div > 
   <p align="center">
-    <img src="./assets/fingerPrint.png" alt="logo1" height="300" width="300">
-    <img src="./assets/expo.png" alt="logo2" width="500" height="300">
+    <img src="./assets/fingerPrint.png" alt="logo1" height="250" width="250">
+    <img src="./assets/expo.png" alt="logo2" width="600" height="250">
     </p>
 </div>
 <h1 align="center">
@@ -17,7 +17,7 @@
 <div > 
   <p align="center">
     <img src="./assets/1.gif" alt="demo-mobile" height="420" width="200">
-    <img src="./src/assets/2.gif" alt="demo-mobile" width="200" height="420">
+    <img src="./assets/2.gif" alt="demo-mobile" width="200" height="420">
     </p>
 </div>
 <hr />
