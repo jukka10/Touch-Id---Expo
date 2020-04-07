@@ -5,7 +5,7 @@
     </p>
 </div>
 <h1 align="center">
-🔥 Fingerpint and React-Native
+🔥 Fingerprint and React-Native
 </h1>
 <p align="center">A project made in React-Native with Expo</p>
 <p align="center">
